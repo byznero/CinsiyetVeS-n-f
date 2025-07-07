@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\soru4\bin\Debug\net8.0-windows\soru4.exe
+C:\Users\pc\source\repos\soru4\bin\Debug\net8.0-windows\soru4.deps.json
+C:\Users\pc\source\repos\soru4\bin\Debug\net8.0-windows\soru4.runtimeconfig.json
+C:\Users\pc\source\repos\soru4\bin\Debug\net8.0-windows\soru4.dll
+C:\Users\pc\source\repos\soru4\bin\Debug\net8.0-windows\soru4.pdb
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.Form1.resources
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.AssemblyInfo.cs
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.dll
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\refint\soru4.dll
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.pdb
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\soru4.genruntimeconfig.cache
+C:\Users\pc\source\repos\soru4\obj\Debug\net8.0-windows\ref\soru4.dll
